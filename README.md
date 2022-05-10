@@ -17,9 +17,7 @@ Based off of the analysis, we can infer that many of these users throughout the 
 
 ![Heat map of frequently utilized time](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeUsageHeatMap.png)
 
-![Line chart of time durations](https://github.com/rudiferr/CitiBike_analysis/tree/blob/Resources/TimeDurationLineChart.png)
-
-![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
+![Line chart of time durations](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeDurationLineChart.png)
 
 ![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
 
