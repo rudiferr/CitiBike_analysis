@@ -11,18 +11,18 @@ Click [here](https://public.tableau.com/app/profile/rudy.tresvalles/viz/NYCCitiB
 Based off of the analysis, we can infer that many of these users throughout the weekdays will be work commuters while the weekends can consistent of a balance of  city residents and tourists. Additionally, a majority of the users were male riders. Although this may not be anything significant, but it's useful for future marketing campaigns. Another significant point that can be made is that most of the ride durations peaked at around 5 minutes. If there were to be a bike-sharing program set up in Des Moines, it would help if each station can be set up within no more than 20 minutes of biking distance from each other. This is because we need to take into account that Manhattan is a large city, where Des Moines is made up of suburbs; places tend to be farther apart in suburbs compared to places in large cities, but they shouldn't be too far apart to disincentivize using the service.
 
 ## Visualizations
-![Bubble map of frequently used start locations](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/LocationUsageBubbleMap.png)
+![Bubble map of frequently used start locations](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/LocationUsageBubbleMap.png)
 
-![Bar graph of frequently utilized time](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/TimeUsageBarChart.png)
+![Bar graph of frequently utilized time](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeUsageBarChart.png)
 
-![Heat map of frequently utilized time](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/TimeUsageHeatMap.png)
+![Heat map of frequently utilized time](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeUsageHeatMap.png)
 
-![Line chart of time durations](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/TimeDurationLineChart.png)
+![Line chart of time durations](https://github.com/rudiferr/CitiBike_analysis/tree/blob/Resources/TimeDurationLineChart.png)
 
-![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
+![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
 
-![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
+![Heat map of weekly utilization by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/WeekdayUsageByUsersGenderHeatMap.png)
 
-![Line chart of time durations by user type](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/TimeDurationByGenderLineChart.png)
+![Line chart of time durations by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeDurationByGenderLineChart.png)
 
-![Heat map of frequently utilized time by user type](https://github.com/rudiferr/CitiBike_analysis/tree/main/Resources/TimeUsageByGenderHeatMap.png)
+![Heat map of frequently utilized time by user type](https://github.com/rudiferr/CitiBike_analysis/blob/main/Resources/TimeUsageByGenderHeatMap.png)
